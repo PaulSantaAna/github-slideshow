@@ -1,6 +1,5 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "This is my first Github page!"
 ---
-Your text
-Use the left arrow to go back!
+Learning Github now
